@@ -6,7 +6,6 @@
 
 <hr>
 
-## [Deployable Link](https://hobbyst.herokuapp.com/)
 
 ## Below you will find screenshots with functionality, a little about the team, the technologies used.
 
